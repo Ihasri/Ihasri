@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=200&section=header&text=Ihasri&fontSize=40&fontColor=ffffff)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hi+I'm+Ihasri;Aspiring+Software+Engineer;Open+Source+Learner)
 # T.-Ihasri
 About me
